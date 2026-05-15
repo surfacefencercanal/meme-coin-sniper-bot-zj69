@@ -1,4 +1,4 @@
-# 
+# secure MEV Bot for meme coin sniper bot | proxy-transactions & back-running offers the most advanced meme coin sniper bot, with proxy-transactions and back-running. Ideal for
 
 
 
